@@ -1,0 +1,5 @@
+C:\Users\irem turgut\source\repos\yazılımTasarım\ConsoleApp1\bin\Debug\LiskovPrinciple.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\ConsoleApp1\bin\Debug\LiskovPrinciple.pdb
+C:\Users\irem turgut\source\repos\yazılımTasarım\ConsoleApp1\obj\Debug\LiskovPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\ConsoleApp1\obj\Debug\LiskovPrinciple.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\ConsoleApp1\obj\Debug\LiskovPrinciple.pdb

@@ -1,0 +1,14 @@
+C:\Users\irem turgut\source\repos\yazılımTasarım\yazılımTasarım\bin\Debug\netcoreapp3.1\yazılımTasarım.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\yazılımTasarım\bin\Debug\netcoreapp3.1\yazılımTasarım.deps.json
+C:\Users\irem turgut\source\repos\yazılımTasarım\yazılımTasarım\bin\Debug\netcoreapp3.1\yazılımTasarım.runtimeconfig.json
+C:\Users\irem turgut\source\repos\yazılımTasarım\yazılımTasarım\bin\Debug\netcoreapp3.1\yazılımTasarım.runtimeconfig.dev.json
+C:\Users\irem turgut\source\repos\yazılımTasarım\yazılımTasarım\bin\Debug\netcoreapp3.1\yazılımTasarım.dll
+C:\Users\irem turgut\source\repos\yazılımTasarım\yazılımTasarım\bin\Debug\netcoreapp3.1\yazılımTasarım.pdb
+C:\Users\irem turgut\source\repos\yazılımTasarım\yazılımTasarım\obj\Debug\netcoreapp3.1\yazılımTasarım.csproj.AssemblyReference.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\yazılımTasarım\obj\Debug\netcoreapp3.1\yazılımTasarım.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irem turgut\source\repos\yazılımTasarım\yazılımTasarım\obj\Debug\netcoreapp3.1\yazılımTasarım.AssemblyInfoInputs.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\yazılımTasarım\obj\Debug\netcoreapp3.1\yazılımTasarım.AssemblyInfo.cs
+C:\Users\irem turgut\source\repos\yazılımTasarım\yazılımTasarım\obj\Debug\netcoreapp3.1\yazılımTasarım.csproj.CoreCompileInputs.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\yazılımTasarım\obj\Debug\netcoreapp3.1\yazılımTasarım.dll
+C:\Users\irem turgut\source\repos\yazılımTasarım\yazılımTasarım\obj\Debug\netcoreapp3.1\yazılımTasarım.pdb
+C:\Users\irem turgut\source\repos\yazılımTasarım\yazılımTasarım\obj\Debug\netcoreapp3.1\yazılımTasarım.genruntimeconfig.cache

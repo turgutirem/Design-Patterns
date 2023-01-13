@@ -1,0 +1,5 @@
+C:\Users\irem turgut\source\repos\yazılımTasarım\CompositOrnek2\bin\Debug\CompositOrnek2.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\CompositOrnek2\bin\Debug\CompositOrnek2.pdb
+C:\Users\irem turgut\source\repos\yazılımTasarım\CompositOrnek2\obj\Debug\CompositOrnek2.csproj.CoreCompileInputs.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\CompositOrnek2\obj\Debug\CompositOrnek2.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\CompositOrnek2\obj\Debug\CompositOrnek2.pdb

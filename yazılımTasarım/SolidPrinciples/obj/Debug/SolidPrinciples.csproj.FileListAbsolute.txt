@@ -1,0 +1,6 @@
+C:\Users\irem turgut\source\repos\yazılımTasarım\SolidPrinciples\bin\Debug\SolidPrinciples.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\SolidPrinciples\bin\Debug\SolidPrinciples.pdb
+C:\Users\irem turgut\source\repos\yazılımTasarım\SolidPrinciples\obj\Debug\SolidPrinciples.csproj.AssemblyReference.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\SolidPrinciples\obj\Debug\SolidPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\SolidPrinciples\obj\Debug\SolidPrinciples.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\SolidPrinciples\obj\Debug\SolidPrinciples.pdb

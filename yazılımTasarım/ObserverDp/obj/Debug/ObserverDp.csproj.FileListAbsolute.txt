@@ -1,0 +1,6 @@
+C:\Users\irem turgut\source\repos\yazılımTasarım\ObserverDp\bin\Debug\ObserverDp.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\ObserverDp\bin\Debug\ObserverDp.pdb
+C:\Users\irem turgut\source\repos\yazılımTasarım\ObserverDp\obj\Debug\ObserverDp.csproj.AssemblyReference.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\ObserverDp\obj\Debug\ObserverDp.csproj.CoreCompileInputs.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\ObserverDp\obj\Debug\ObserverDp.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\ObserverDp\obj\Debug\ObserverDp.pdb

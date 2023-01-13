@@ -1,0 +1,5 @@
+C:\Users\irem turgut\source\repos\yazılımTasarım\FacadeOrnek\bin\Debug\FacadeOrnek.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\FacadeOrnek\bin\Debug\FacadeOrnek.pdb
+C:\Users\irem turgut\source\repos\yazılımTasarım\FacadeOrnek\obj\Debug\FacadeOrnek.csproj.CoreCompileInputs.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\FacadeOrnek\obj\Debug\FacadeOrnek.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\FacadeOrnek\obj\Debug\FacadeOrnek.pdb

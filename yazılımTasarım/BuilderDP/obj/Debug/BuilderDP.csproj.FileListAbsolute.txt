@@ -1,0 +1,6 @@
+C:\Users\irem turgut\source\repos\yazılımTasarım\BuilderDP\bin\Debug\BuilderDP.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\BuilderDP\bin\Debug\BuilderDP.pdb
+C:\Users\irem turgut\source\repos\yazılımTasarım\BuilderDP\obj\Debug\BuilderDP.csproj.AssemblyReference.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\BuilderDP\obj\Debug\BuilderDP.csproj.CoreCompileInputs.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\BuilderDP\obj\Debug\BuilderDP.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\BuilderDP\obj\Debug\BuilderDP.pdb

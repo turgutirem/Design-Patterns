@@ -1,0 +1,6 @@
+C:\Users\irem turgut\source\repos\yazılımTasarım\AbstractFactoryDP\bin\Debug\AbstractFactoryDP.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\AbstractFactoryDP\bin\Debug\AbstractFactoryDP.pdb
+C:\Users\irem turgut\source\repos\yazılımTasarım\AbstractFactoryDP\obj\Debug\AbstractFactoryDP.csproj.AssemblyReference.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\AbstractFactoryDP\obj\Debug\AbstractFactoryDP.csproj.CoreCompileInputs.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\AbstractFactoryDP\obj\Debug\AbstractFactoryDP.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\AbstractFactoryDP\obj\Debug\AbstractFactoryDP.pdb

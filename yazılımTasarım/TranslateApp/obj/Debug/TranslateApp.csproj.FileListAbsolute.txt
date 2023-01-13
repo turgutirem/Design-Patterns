@@ -1,0 +1,9 @@
+C:\Users\irem turgut\source\repos\yazılımTasarım\TranslateApp\bin\Debug\TranslateApp.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\TranslateApp\bin\Debug\TranslateApp.pdb
+C:\Users\irem turgut\source\repos\yazılımTasarım\TranslateApp\obj\Debug\TranslateApp.csproj.AssemblyReference.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\TranslateApp\obj\Debug\TranslateApp.Form1.resources
+C:\Users\irem turgut\source\repos\yazılımTasarım\TranslateApp\obj\Debug\TranslateApp.Properties.Resources.resources
+C:\Users\irem turgut\source\repos\yazılımTasarım\TranslateApp\obj\Debug\TranslateApp.csproj.GenerateResource.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\TranslateApp\obj\Debug\TranslateApp.csproj.CoreCompileInputs.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\TranslateApp\obj\Debug\TranslateApp.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\TranslateApp\obj\Debug\TranslateApp.pdb

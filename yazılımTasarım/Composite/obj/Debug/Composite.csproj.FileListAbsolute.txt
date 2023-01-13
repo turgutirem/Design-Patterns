@@ -1,0 +1,6 @@
+C:\Users\irem turgut\source\repos\yazılımTasarım\Composite\bin\Debug\Composite.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\Composite\bin\Debug\Composite.pdb
+C:\Users\irem turgut\source\repos\yazılımTasarım\Composite\obj\Debug\Composite.csproj.AssemblyReference.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\Composite\obj\Debug\Composite.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\Composite\obj\Debug\Composite.pdb

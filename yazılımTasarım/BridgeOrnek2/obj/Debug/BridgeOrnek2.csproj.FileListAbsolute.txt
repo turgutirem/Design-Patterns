@@ -1,0 +1,5 @@
+C:\Users\irem turgut\source\repos\yazılımTasarım\BridgeOrnek2\bin\Debug\BridgeOrnek2.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\BridgeOrnek2\bin\Debug\BridgeOrnek2.pdb
+C:\Users\irem turgut\source\repos\yazılımTasarım\BridgeOrnek2\obj\Debug\BridgeOrnek2.csproj.CoreCompileInputs.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\BridgeOrnek2\obj\Debug\BridgeOrnek2.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\BridgeOrnek2\obj\Debug\BridgeOrnek2.pdb

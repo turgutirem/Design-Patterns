@@ -1,0 +1,6 @@
+C:\Users\irem turgut\source\repos\yazılımTasarım\AdapterDP\bin\Debug\AdapterDP.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\AdapterDP\bin\Debug\AdapterDP.pdb
+C:\Users\irem turgut\source\repos\yazılımTasarım\AdapterDP\obj\Debug\AdapterDP.csproj.AssemblyReference.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\AdapterDP\obj\Debug\AdapterDP.csproj.CoreCompileInputs.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\AdapterDP\obj\Debug\AdapterDP.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\AdapterDP\obj\Debug\AdapterDP.pdb

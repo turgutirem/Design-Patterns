@@ -1,0 +1,6 @@
+C:\Users\irem turgut\source\repos\yazılımTasarım\VisitorDP\bin\Debug\VisitorDP.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\VisitorDP\bin\Debug\VisitorDP.pdb
+C:\Users\irem turgut\source\repos\yazılımTasarım\VisitorDP\obj\Debug\VisitorDP.csproj.AssemblyReference.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\VisitorDP\obj\Debug\VisitorDP.csproj.CoreCompileInputs.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\VisitorDP\obj\Debug\VisitorDP.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\VisitorDP\obj\Debug\VisitorDP.pdb

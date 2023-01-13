@@ -1,0 +1,6 @@
+C:\Users\irem turgut\source\repos\yazılımTasarım\FactoryOrnekBgrup\bin\Debug\FactoryOrnekBgrup.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\FactoryOrnekBgrup\bin\Debug\FactoryOrnekBgrup.pdb
+C:\Users\irem turgut\source\repos\yazılımTasarım\FactoryOrnekBgrup\obj\Debug\FactoryOrnekBgrup.csproj.AssemblyReference.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\FactoryOrnekBgrup\obj\Debug\FactoryOrnekBgrup.csproj.CoreCompileInputs.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\FactoryOrnekBgrup\obj\Debug\FactoryOrnekBgrup.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\FactoryOrnekBgrup\obj\Debug\FactoryOrnekBgrup.pdb

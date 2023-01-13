@@ -1,0 +1,6 @@
+C:\Users\irem turgut\source\repos\yazılımTasarım\FacadeDP\bin\Debug\FacadeDP.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\FacadeDP\bin\Debug\FacadeDP.pdb
+C:\Users\irem turgut\source\repos\yazılımTasarım\FacadeDP\obj\Debug\FacadeDP.csproj.AssemblyReference.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\FacadeDP\obj\Debug\FacadeDP.csproj.CoreCompileInputs.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\FacadeDP\obj\Debug\FacadeDP.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\FacadeDP\obj\Debug\FacadeDP.pdb

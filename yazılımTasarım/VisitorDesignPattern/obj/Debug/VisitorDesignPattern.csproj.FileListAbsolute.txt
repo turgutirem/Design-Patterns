@@ -1,0 +1,6 @@
+C:\Users\irem turgut\source\repos\yazılımTasarım\VisitorDesignPattern\bin\Debug\VisitorDesignPattern.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\VisitorDesignPattern\bin\Debug\VisitorDesignPattern.pdb
+C:\Users\irem turgut\source\repos\yazılımTasarım\VisitorDesignPattern\obj\Debug\VisitorDesignPattern.csproj.AssemblyReference.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\VisitorDesignPattern\obj\Debug\VisitorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\VisitorDesignPattern\obj\Debug\VisitorDesignPattern.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\VisitorDesignPattern\obj\Debug\VisitorDesignPattern.pdb

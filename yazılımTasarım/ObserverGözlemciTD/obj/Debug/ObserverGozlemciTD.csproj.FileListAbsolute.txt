@@ -1,0 +1,6 @@
+C:\Users\irem turgut\source\repos\yazılımTasarım\ObserverGözlemciTD\bin\Debug\ObserverGözlemciTD.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\ObserverGözlemciTD\bin\Debug\ObserverGözlemciTD.pdb
+C:\Users\irem turgut\source\repos\yazılımTasarım\ObserverGözlemciTD\obj\Debug\ObserverGozlemciTD.csproj.AssemblyReference.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\ObserverGözlemciTD\obj\Debug\ObserverGozlemciTD.csproj.CoreCompileInputs.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\ObserverGözlemciTD\obj\Debug\ObserverGözlemciTD.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\ObserverGözlemciTD\obj\Debug\ObserverGözlemciTD.pdb

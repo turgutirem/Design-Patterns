@@ -1,0 +1,5 @@
+C:\Users\irem turgut\source\repos\yazılımTasarım\StrategyDP\bin\Debug\StrategyDP.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\StrategyDP\bin\Debug\StrategyDP.pdb
+C:\Users\irem turgut\source\repos\yazılımTasarım\StrategyDP\obj\Debug\StrategyDP.csproj.CoreCompileInputs.cache
+C:\Users\irem turgut\source\repos\yazılımTasarım\StrategyDP\obj\Debug\StrategyDP.exe
+C:\Users\irem turgut\source\repos\yazılımTasarım\StrategyDP\obj\Debug\StrategyDP.pdb
